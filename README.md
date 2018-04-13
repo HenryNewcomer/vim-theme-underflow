@@ -1,11 +1,14 @@
 # Underflow Theme for Vim
 ![drag](https://i.imgur.com/dbSQZgW.png)
 
-Note that these colors were chosen with 256-bit color in mind. This is my
-first contribution on github, so if something isn't working, please let
+This is my first contribution on github. If anything isn't working, please let
 me know.
 
 ---
+**Important**
+This theme's colors were chosen with 256-bit color in mind. As long as your
+terminal supports 256-bit colors, make sure your `.vimrc` file contains
+`set t_Co=256` somewhere within it.
 
 ## Installation
 
@@ -42,5 +45,5 @@ method. For example, if using Vim Plug, you'd add the lines after `plug#end()`.
 
 If you have any questions, feel free to e-mail me at a.cliche.email@gmail.com
 
-*I haven't included a license, yet, but these files are free to use as you see
-fit, as long as you don't claim to take credit for the original file.*
+*This project is licensed under the MIT License. Feel free to use and distribute
+it.*
