@@ -43,6 +43,12 @@ method. For example, if using Vim Plug, you'd add the lines after `plug#end()`.
 
 ---
 
+Feel free to check out my other themes:
++ https://github.com/HenryNewcomer/vim-theme-mutenight-scene
++ https://github.com/HenryNewcomer/vim-theme-papaya
+
+---
+
 If you have any questions, feel free to e-mail me at a.cliche.email@gmail.com
 
 *This project is licensed under the MIT License. Feel free to use and distribute
