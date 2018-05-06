@@ -5,10 +5,6 @@ This is my first contribution on github. If anything isn't working, please let
 me know.
 
 ---
-**Important**
-This theme's colors were chosen with 256-bit color in mind. As long as your
-terminal supports 256-bit colors, make sure your `.vimrc` file contains
-`set t_Co=256` somewhere within it.
 
 ## Installation
 
